@@ -1,0 +1,12 @@
+http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/
+
+http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/
+
+
+https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN
+
+
+http://r-bio.github.io/intro-git-rstudio/
+
+
+http://r-pkgs.had.co.nz/git.html
