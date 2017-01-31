@@ -14,15 +14,15 @@ library(DataComputing)
 
 ### Set-Up
 
-```{r}
+
 data("NCI60")
 data("NCI60cells")
-```
+
 
 
 ### Simple Graphics for Gene Expression
 
-```{r}
+
 ## Inspect raw data
 # head(NCI60)
 # head(NCI60cells)
@@ -55,7 +55,7 @@ head(Narrow)
 
 We can now extract the expression of TOP3A for each cell line and calculate the mean expression for each tissue type.
 
-```{r}
+
 ## restrict data to include only the TOP3A probes
 Probe_TOP3A <- 
   Narrow %>% filter(Probe=="TOP3A")
